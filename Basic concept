@@ -1,0 +1,21 @@
+// Question 1
+// create a string variable and add number 7;
+
+let a="This is a string"
+let b=7
+
+console.log(a + b)
+
+// Question 2
+//Use type of operator to find the datatype of above question
+
+console.log(typeof (a+b))
+
+//Question 3
+//create a const object in javascript and access its value
+
+const car={
+    name: "maruti suzuki",
+    engine_model : 35,
+}
+console.log(car.name);
