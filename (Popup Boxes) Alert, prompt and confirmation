@@ -9,3 +9,14 @@ if(a>18){
 else{
     alert("You are under age");
 }
+
+
+// code for confirmation
+let z= confirm("Are you sure you want to delete this ?");
+
+if(z){
+    console.log(" Iteam Deleted ");
+}
+else{
+    console.log("Deletion canceled");
+}
