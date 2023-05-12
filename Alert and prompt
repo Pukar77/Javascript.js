@@ -1,0 +1,11 @@
+// conditional statement with prompt and alert
+//prompt ask something with user where as alert shows a message to user
+
+let a= prompt("Enter your age");
+
+if(a>18){
+    alert("Welcome!");
+}
+else{
+    alert("You are under age");
+}
