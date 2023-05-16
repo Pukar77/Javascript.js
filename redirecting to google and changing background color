@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <p> Hello Everyone</p>
+    <br>
+
+    
+</body>
+<script>
+    alert("Enter your age");
+let z= prompt("Enter your age");
+if(z>0){
+document.write("Your age is ", z);
+
+}
+else{
+    console.error("Enter the valid age");
+    document.write("Opening google");
+    location.href ="https://google.com";
+}
+
+let a= prompt("Enter the color you want as background");
+document.body.style.background= a;
+</script>
+</html>
