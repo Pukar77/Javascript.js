@@ -2,7 +2,7 @@
 //prompt ask something with user where as alert shows a message to user
 
 let a= prompt("Enter your age");
-document.write("Your age is ", a);
+document.write("Your age is ", a);     // it writes in a webbrowser
 
 if(a>18){
     alert("Welcome!");
