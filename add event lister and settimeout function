@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello click here</h1>
+    <br>
+    <script>
+        document.addEventListener("click", function() {
+            console.log("You clicked");
+            document.body.innerHTML += "<p>You are awesome</p>"; 
+            //if we do document.write then hello click here will disappear;
+            alert("DON'T click");
+        });
+        setTimeout (function(){
+            console.log("its pukar brother");
+        }, 3000);    //it will be printed after 3 sec;
+        console.log("Hello world");
+    </script>
+</body>
+</html>
