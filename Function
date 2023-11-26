@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript</title>
+</head>
+<body>
+
+    <h1>I am Pukar</h1>
+<button type="button" id="hi" onclick="addnumber()">click to add 4 and 5</button>
+
+    <script>
+
+      function addnumber() {
+        document.getElementById("hi").innerHTML = 4 + 5;
+       }
+    
+        
+    </script>
+
+
+
+
+
+
+    
+</body>
+</html>
