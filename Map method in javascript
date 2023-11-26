@@ -1,0 +1,11 @@
+let arr = [15 ,23 ,49];
+
+
+arr.map((value)=>{
+    console.log(value);
+    });
+
+
+//map basically creates a new array whereas foreach loop perfroms operation in the existing array
+
+
