@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript</title>
+</head>
+<body>
+
+    <h1>I am Pukar</h1>
+<button type="button" id="hi" onclick="addnumber()">click to add 4 and 5</button>
+
+<br>
+
+<button type="button" id="hlo" onclick="add()">adding 10 and 10 using document.write function</button>
+
+    <script>
+
+      function addnumber() {
+        document.getElementById("hi").innerHTML = (5+6);
+      }
+
+      function add(){
+        document.getElementById("hlo").innerHTML = document.write(10+10);  //document.write garyo bhane naya webpage ma janxa (here 20 will be displayed in a new fresh page)
+      }
+    </script>
+
+    
+</body>
+</html>
