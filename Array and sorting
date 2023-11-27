@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="script.js"></script>
+</head>
+<body>
+<h1>Array in javascript</h1>
+  <p id="hi"></p>
+<br>
+  <p>After sorting</p>
+<p id="haha"></p>
+
+  
+</body>
+
+<script>
+  const hello = ["pukar" , "rimal", "hero" , "ho"];
+
+  document.getElementById("hi").innerHTML = hello;
+
+
+  hello.sort();
+
+  document.getElementById("haha").innerHTML = hello;
+
+  
+</script>
+</html>
