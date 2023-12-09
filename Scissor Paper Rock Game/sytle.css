@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(#FFEFBA,#FFFFFF);
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    line-height: 130px;
+}
+
+.container img{
+    height: 150px;
+    width: 150px;
+   object-fit: cover;
+   border-radius: 80px;
+   border: 2px solid black;
+   
+   
+    
+}
+
+img:hover{
+    opacity: 0.5;
+    cursor: pointer;
+    
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    margin-top: 50px;
+
+}
+
+
+.mainscore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 30px;
+    gap: 60px;
+    line-height: 50px;
+}
+
+.mainscore .score1 .zero1{
+    
+    text-align: center;
+}
+
+.mainscore .score .zero{
+   
+    text-align: center;
+}
+
+
+
+.last{
+   
+    margin-top: 40px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.last .para{
+    font-size: 40px;
+    background: linear-gradient(225deg, #09e6e2, #0bffff);
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+    display: inline;
+  
+   
+}
+
+
+footer{
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    margin-top: 10px;
+}
+
