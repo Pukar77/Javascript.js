@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch_Api</title>
+</head>
+<body>
+    <h1>Users:</h1>
+    <ul id="username">
+     
+    </ul>
+
+    <script>
+        fetch('https://jsonplaceholder.typicode.com/users')
+        .then(res => {
+            // console.log(res);  
+           return res.json();
+
+        })
+        .then(data =>{
+            console.log(data); 
+            
+         const userlist = document.getElementById('username');
+
+         data.forEach(user => {
+            const li = document.createElement('li');
+            const li1 = document.createElement('li');
+            li.textContent= user.name;
+            li1.textContent= user.email;
+            userlist.appendChild(li);
+            userlist.appendChild(li1);
+         });
+            
+        })
+    </script>
+</body>
+</html>
