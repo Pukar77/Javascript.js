@@ -1,0 +1,18 @@
+let url = "https://goweather.herokuapp.com/weather/Curitiba";
+
+
+ 
+let weather = async()=>{
+    let response = await fetch (url);
+    console.log(response);               
+    console.log(response.status);         //check the status of api
+
+    let data = await response.json();     //convert api into user readable format
+    console.log(data);
+
+    let display = document.createElement('p');
+     display.innerHTML = `Wind  ${data.wind}`;
+     document.body.appendChild(display);
+   
+
+}
