@@ -1,0 +1,10 @@
+.photo{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-evenly;
+}
+.card-img-top{
+    height: 250px;
+    width: 350px;
+}

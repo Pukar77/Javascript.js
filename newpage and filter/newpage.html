@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p class="hiii"></p>
+    <script>
+      window.onload = function () {
+        let data = localStorage.getItem("itemname");
+        console.log(data);
+        let parse_data = JSON.parse(data);
+        console.log(parse_data);
+
+        document.querySelector(".hiii").innerHTML = `
+        <p>${parse_data.name}</p>
+        <img src=${parse_data.image} >
+
+        <p>${parse_data.description}</p>
+        `;
+      };
+    </script>
+  </body>
+</html>

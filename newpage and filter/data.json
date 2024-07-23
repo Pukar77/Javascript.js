@@ -1,0 +1,117 @@
+[{
+
+"id": "1",
+"name": "narayanhiti",
+"city": "kathmandu",
+"image": "places/image1.jpg",
+"description": "The Narayanhiti Palace Museum (Nepali: नारायणहिटी दरवार) is a public museum in kathmandu, Nepal[1] located east of the Kaiser Mahal and next to Thamel.[2] The museum was created in 2008 from the complex of the former Narayanhiti Palace (or Narayanhiti Durbar) following the 2006 revolution.[1] Before the revolution, the palace was the residence and principal workplace of the monarch of the Kingdom of Nepal, and hosted occasions of state.[3][4][5]",
+"category":"historic"
+
+},
+
+{
+
+    "id": "2",
+    "name": "Pashupatinath",
+    "city": "kathmandu",
+    "image": "places/image2.png",
+    "description": "The Pashupatinath Temple (Nepali: पशुपतिनाथ मन्दिर) is a Hindu temple dedicated to Pashupati, a form of Shiva. It is located in kathmandu, Nepal near the Bagmati River. The temple was classified as a World Heritage Site in 1979. This extensive Hindu temple precinct is a sprawling collection of temples, ashrams, images and inscriptions raised over the centuries along the banks of the sacred Bagmati river, and is one of seven monument groups in UNESCO's designation of kathmandu Valley.[1] The temple, considered one of the holiest pilgrimage sites for Hindus, is built on an area of 246 hectares (2,460,000 m2)[2] and includes 518 mini-temples and a main pagoda house.",
+    "category":"temple"
+    
+    },
+
+    {
+
+    "id": "3",
+    "name": "Boudhanath Temple",
+    "city": "kathmandu",
+    "image": "places/image3.jpg",
+    "description": "Boudhanath Temple, located in kathmandu, Nepal, is one of the largest and most significant Buddhist stupas in the world. This UNESCO World Heritage Site features a massive mandala and is an important pilgrimage site for Tibetan Buddhists. The stupa's striking white dome, topped with a golden spire and all-seeing eyes of Buddha, symbolizes enlightenment and peace. Surrounded by numerous monasteries, Boudhanath is a vibrant center of Tibetan culture and spirituality.",
+    "category":"temple"
+    
+    },
+
+    {
+    "id": "4",
+    "name": "Bhaktapur darbar square",
+    "city": "Bhaktapur",
+    "image": "places/image4.jpg",
+    "description": "Bhaktapur Durbar Square, situated in Bhaktapur, Nepal, is a stunning showcase of traditional Newari architecture and artistry. This UNESCO World Heritage Site boasts a collection of ancient temples, palaces, courtyards, and statues, reflecting the rich cultural and historical heritage of the kathmandu Valley. Key highlights include the 55-Window Palace, Vatsala Temple, and the intricately carved Golden Gate. The square is a vibrant hub of local life, where festivals and traditional events are regularly celebrated.",
+    "category":"temple"
+    
+    },
+
+
+    {
+        "id": "5",
+        "name": "Patan darbar square",
+        "city": "kathmandu",
+        "image": "places/image5.jpg",
+        "description": "Patan Durbar Square, located in the heart of Lalitpur, Nepal, is a magnificent display of Newari architecture and craftsmanship. As a UNESCO World Heritage Site, it features a remarkable ensemble of palaces, courtyards, and temples, including the revered Krishna Mandir and the ancient Royal Palace. The square is adorned with intricately carved wooden windows and sculptures, showcasing the artistic heritage of the kathmandu Valley. A vibrant center for culture and history, Patan Durbar Square remains a bustling area for local festivals and traditional ceremonies.",
+        "category":"temple"
+        
+        },
+
+        {
+            "id": "6",
+            "name": "place i forgot",
+            "city": "kathmandu",
+            "image": "places/image6.webp",
+            "description": "Sorry i forgot the place, located in the heart of Lalitpur, Nepal, is a magnificent display of Newari architecture and craftsmanship. As a UNESCO World Heritage Site, it features a remarkable ensemble of palaces, courtyards, and temples, including the revered Krishna Mandir and the ancient Royal Palace. The square is adorned with intricately carved wooden windows and sculptures, showcasing the artistic heritage of the kathmandu Valley. A vibrant center for culture and history, Patan Durbar Square remains a bustling area for local festivals and traditional ceremonies.",
+            "category":"temple"
+            
+            },
+
+
+            {
+                "id": "7",
+                "name": "Pilot Baba",
+                "city": "Bhaktapur",
+                "image": "places/image7.webp",
+                "description": "Pilot Baba, also known as Kapil Adwait, is a renowned spiritual leader and yogi in India, famous for his transformation from an Indian Air Force pilot to a revered guru. After a near-death experience, he dedicated his life to spiritual pursuits, mastering various forms of yoga and meditation. Pilot Baba has established numerous ashrams and spiritual centers, guiding thousands of followers on the path of self-realization and inner peace. His teachings blend ancient wisdom with contemporary insights, promoting harmony and spiritual awakening.",
+                "category":"temple"
+                
+                },
+
+
+                
+            {
+                "id": "8",
+                "name": "Changunarayan Temple",
+                "city": "Bhaktapur",
+                "image": "places/image8.jpg",
+                "description": "Changunarayan Temple, located in Bhaktapur, Nepal, is one of the oldest Hindu temples in the kathmandu Valley, dating back to the 4th century. This UNESCO World Heritage Site is dedicated to Lord Vishnu and is renowned for its intricate wood and stone carvings, showcasing exemplary Newari craftsmanship. The temple complex includes ancient sculptures, inscriptions, and shrines, offering a glimpse into Nepal's rich historical and cultural heritage. Nestled on a hilltop, Changunarayan Temple provides a serene atmosphere and panoramic views of the surrounding valley.",
+                "category":"temple"
+                
+                },
+
+                        
+            {
+                "id": "9",
+                "name": "Siddi Pokhari",
+                "city": "Bhaktapur",
+                "image": "places/image9.jpg",
+                "description": "Siddha Pokhari, located in Bhaktapur, Nepal, is an ancient pond dating back to the 15th century. Built during the reign of King Yaksha Malla, this large rectangular pond is also known as Indra Daha. It holds historical and cultural significance, serving as a vital water source and a site for religious rituals and festivals. Surrounded by traditional Newari architecture and lush greenery, Siddha Pokhari offers a tranquil retreat and a glimpse into the rich heritage of Bhaktapur.",
+                "category":"historic"
+                
+                },
+
+
+                {
+                    "id": "10",
+                    "name": "Nagarkot",
+                    "city": "Bhaktapur",
+                    "image": "places/image10.jpg",
+                    "description": "Nagarkot, a picturesque hill station located about 32 kilometers east of kathmandu, Nepal, is renowned for its breathtaking panoramic views of the Himalayas, including Mount Everest on clear days. Perched at an altitude of around 2,175 meters, it is a popular destination for tourists seeking stunning sunrises and sunsets over the snow-capped peaks. Nagarkot offers a peaceful retreat with opportunities for hiking, nature walks, and immersing oneself in the serene mountain landscape. Its tranquil ambiance and natural beauty make it an ideal escape from the bustling city life of kathmandu.",
+                    "category":"historic"
+                    
+                    }
+
+
+
+    
+
+
+
+
+]
